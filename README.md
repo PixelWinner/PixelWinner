@@ -1,16 +1,31 @@
-### Hi there 👋
+# Information
 
-<!--
-**PixelWinnerUA/PixelWinnerUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Profile                                                                                                                 | Contacts & Description                                                                                                                                                               |
+|:------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - Name: *Oleksandr Khoroshykh*<br/>- Age: *21 y.o.*<br/>- Gender: *male*<br/>- Category: *Front-End/Software Developer* | - Email: `alex.pixelwinner@gmail.com`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/oleksandr-khoroshykh-a8851b246/)<br/>- Location: 🇺🇦 <br/>- Status: *Open to work* 🧑‍🏭 |
 
-Here are some ideas to get you started:
+# Stack & Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My commercial experience is described down below
+
+## Languages table
+
+| Tech                                       |  Level  |
+|:-------------------------------------------|:-------:| 
+| `TypeScript`, `JavaScript`                 | 3 years | 
+| `React`,`Redux`,`MUI`, `styled-components` | 3 years |
+| `NestJS`,`Sequelize`,`Swagger`             | 1 year  | 
+| `Docker`                                   | 2 years | 
+
+### *TypeScript/JavaScript* Experience
+
+I have proven experience with both `SQL` and `NoSQL` databases, such as:
+
+* `MongoDB` - Mongoose
+* `PostgreSQL` - Sequelize
+
+# Spoken languages:
+
+- `English`: Intermediate / B1
+- `Ukrainian`: Native /C2
+- `Russian`: Fluent / C1
