@@ -27,5 +27,5 @@ I have proven experience with both `SQL` and `NoSQL` databases, such as:
 # Spoken languages:
 
 - `English`: Intermediate / B1
-- `Ukrainian`: Native /C2
+- `Ukrainian`: Native / C2
 - `Russian`: Fluent / C1
