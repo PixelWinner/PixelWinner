@@ -15,6 +15,7 @@ My commercial experience is described down below
 | `TypeScript`, `JavaScript`                 | 3 years | 
 | `React`,`Redux`,`MUI`, `styled-components` | 3 years |
 | `NestJS`,`Sequelize`,`Swagger`             | 1 year  | 
+| `PHP`,`Laravel`,`Go`, `Vue`             | 1 year  | 
 
 ### *TypeScript/JavaScript* Experience
 
