@@ -2,7 +2,7 @@
 
 | Profile                                                                                                                 | Contacts & Description                                                                                                                                                               |
 |:------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - Name: *Oleksandr Khoroshykh*<br/>- Age: *21 y.o.*<br/>- Gender: *male*<br/>- Category: *Front-End / Software Developer* | - Email: `alex.pixelwinner@gmail.com`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/oleksandr-khoroshykh-a8851b246/)<br/>- Location: 🇺🇦 <br/>- Status: *Open to work* 🧑‍🏭 |
+| - Name: *Oleksandr Khoroshykh*<br/>- Age: *21 y.o.*<br/>- Gender: *male*<br/>- Category: *Full-stack / Software Developer* | - Email: `alex.pixelwinner@gmail.com`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/oleksandr-khoroshykh-a8851b246/)<br/>- Location: 🇺🇦 <br/>- Status: *Open to work* 🧑‍🏭 |
 
 # Stack & Experience
 
