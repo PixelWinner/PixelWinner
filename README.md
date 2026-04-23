@@ -8,7 +8,7 @@
 
 # Stack & Experience
 
-Results-oriented Software Engineer with **4+ years of commercial experience** in front-end and back-end development. :contentReference[oaicite:0]{index=0}  
+Results-oriented Software Engineer with **4+ years of commercial experience** in front-end and back-end development. 
 Strong background in building scalable web applications, system architecture design, performance optimization, and complex integrations.
 
 ## Languages table
